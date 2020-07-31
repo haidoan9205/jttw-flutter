@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976474902505",
+    "firebase_url": "https://journey-6d056.firebaseio.com",
+    "project_id": "journey-6d056",
+    "storage_bucket": "journey-6d056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976474902505:android:25cc37ae15b5fd3a1f8578",
+        "android_client_info": {
+          "package_name": "com.example.prm_se130184"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976474902505-sdv27i68tq605n961rmdto3pi3isl9pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXjSRlJCNla3fiSBEsK8XHpNKohEMAvvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976474902505-sdv27i68tq605n961rmdto3pi3isl9pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
